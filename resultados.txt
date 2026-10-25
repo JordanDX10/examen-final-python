@@ -1,0 +1,8 @@
+REVISIÓN INICIAL DEL DATASET
+Nro. de Filas: 167
+Nro. de Columnas: 6
+Costo de vida promedio: 82.92
+País con costo de vida más alto: Bermuda (225.86)
+País con costo de vida más bajo: Egypt (27.37)
+Costo de Vida en Perú: 83.26
+Ranking de Perú: 60
